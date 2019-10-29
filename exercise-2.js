@@ -8,4 +8,4 @@ function balikString(string) {
 
 //input "hello world!"
 //output" !dlrow olleh"
-console.log(balikString('hello world!'))
+// console.log(balikString('hello world!'))
